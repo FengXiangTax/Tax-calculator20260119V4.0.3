@@ -13,7 +13,7 @@
 权威信息：内置计税依据说明，方便用户查阅相关政策
 
 🚀 快速开始
-访问网站：https://fengxiangtax.github.io
+访问网站：https://fengxiangtax.com
 
 或直接使用以下步骤：
 
